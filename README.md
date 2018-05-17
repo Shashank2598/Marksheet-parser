@@ -18,8 +18,7 @@ Marksheet-parser is a tool for extracting structural information like Name, Mark
   * Correctly rotated.
   * The structural information must be horizontally aligned with field names.
   * Brightness and contrast should be correct.
-  * No shadows or perspective errors.
-  Image examples are shown in Marksheet folder. 
+  * No shadows or perspective errors (Image examples are shown in Marksheet folder). 
 
 ## Running
 Before executing the code
